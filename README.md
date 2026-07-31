@@ -75,10 +75,9 @@ Computer Science undergraduate building dependable full-stack web, Java, and IoT
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anjanadulan&show_icons=true&theme=dark" alt="Anjana's GitHub Stats" height="170" />
 <br>
-
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjanadulan&theme=slate" alt="GitHub Profile Details" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjanadulan&theme=slate" alt="GitHub Profile Details" height="170" width="100%" />
+<br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anjanadulan&theme=slate" alt="Top Languages" height="170" />
 
 </div>
