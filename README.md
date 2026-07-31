@@ -6,12 +6,12 @@
 
 Computer Science undergraduate building dependable full-stack web, Java, and IoT systems from first principles.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-anjanaw.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://anjanaw.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-anjanaww.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://anjanaww.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-anjanadulan-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anjanadulan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anjanawijerathna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjanawijerathna/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anjanawijerathna-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anjana-wijerathna-52a4a8354/)
 [![Email](https://img.shields.io/badge/Email-dulannimsara453%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dulannimsara453@gmail.com)
 
-📍 Colombo, Sri Lanka | 🎓 NIBM | 💼 Open to Software Engineering Internships
+📍 Colombo, Sri Lanka | 🎓 NIBM | 💼 Open to Software Engineering and Fullstack Internships
 
 </div>
 
@@ -73,7 +73,14 @@ Computer Science undergraduate building dependable full-stack web, Java, and IoT
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anjanadulan&show_icons=true&theme=dark&rank_icon=github&count_private=true" alt="Anjana's GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjanadulan&layout=compact&theme=dark" alt="Top Languages" height="170" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anjanadulan&show_icons=true&theme=dark" alt="Anjana's GitHub Stats" height="170" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anjanadulan&layout=compact&theme=dark" alt="Top Languages" height="170" />
 
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=anjanadulan&show_icons=true&theme=dark" alt="Anjana's GitHub Stats" height="170" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anjanadulan&layout=compact&theme=dark" alt="Top Languages" height="170" />
+<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjanadulan&theme=react-dark" alt="Activity Graph" width="100%" />
 </div>
